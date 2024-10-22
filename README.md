@@ -1,3 +1,3 @@
-# CRUD App
+# svelteCRUD
 
-Basic crud app example for sf integration
+Basic crud app for sf integration
