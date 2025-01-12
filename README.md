@@ -1,6 +1,6 @@
 # SvelteCRUD
 
-A basic CRUD application built with [SvelteKit](https://svelte.dev/) and [PocketBase](https://pocketbase.io/). The Salesforce integration is a rough proof of concept, with all interactions handled on the client-side, so it's borked for any real use case.
+A basic CRUD application built with [SvelteKit](https://svelte.dev/) and [PocketBase](https://pocketbase.io/). The Salesforce integration is a rough proof of concept. All interactions are handled on the client-side, so it's borked for any real use case.
 
 To configure the application, create a `.env` file in the root directory and add the following environment variables:
 
